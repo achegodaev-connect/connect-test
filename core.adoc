@@ -1,4 +1,13 @@
 test
 
+[NOTE]
+====
+An admonition block may contain complex content.
 
-NOTE: test note
+.A list
+- one
+- two
+- three
+
+Another paragraph.
+====
